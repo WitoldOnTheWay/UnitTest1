@@ -1,0 +1,13 @@
+C:\Users\Witek\source\repos\CountingApp\CountingApp\bin\Debug\CountingApp.exe.config
+C:\Users\Witek\source\repos\CountingApp\CountingApp\bin\Debug\CountingApp.exe
+C:\Users\Witek\source\repos\CountingApp\CountingApp\bin\Debug\CountingApp.pdb
+C:\Users\Witek\source\repos\CountingApp\CountingApp\obj\Debug\CountingApp.csproj.CoreCompileInputs.cache
+C:\Users\Witek\source\repos\CountingApp\CountingApp\obj\Debug\CountingApp.exe
+C:\Users\Witek\source\repos\CountingApp\CountingApp\obj\Debug\CountingApp.pdb
+C:\Users\Witek\Projects\UnitTest1\CountingApp\bin\Debug\CountingApp.exe.config
+C:\Users\Witek\Projects\UnitTest1\CountingApp\bin\Debug\CountingApp.exe
+C:\Users\Witek\Projects\UnitTest1\CountingApp\bin\Debug\CountingApp.pdb
+C:\Users\Witek\Projects\UnitTest1\CountingApp\obj\Debug\CountingApp.csprojResolveAssemblyReference.cache
+C:\Users\Witek\Projects\UnitTest1\CountingApp\obj\Debug\CountingApp.csproj.CoreCompileInputs.cache
+C:\Users\Witek\Projects\UnitTest1\CountingApp\obj\Debug\CountingApp.exe
+C:\Users\Witek\Projects\UnitTest1\CountingApp\obj\Debug\CountingApp.pdb
